@@ -1,6 +1,6 @@
 librosa
 numpy
-protobuf
+protobuf<=3.20.1
 youtube_dl
 numba
 streamlit
@@ -11,6 +11,6 @@ torchtext
 torchaudio
 sentencepiece
 tokenizers
-pyannote.audio
-pyannote.core
+pyannote.audio==2.1.1
+pyannote.core==4.4
 pydub
