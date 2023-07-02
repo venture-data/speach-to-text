@@ -1,4 +1,5 @@
 librosa
+numpy
 youtube_dl
 numba
 streamlit
