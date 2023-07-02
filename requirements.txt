@@ -1,4 +1,4 @@
-librosa==0.9.1
+librosa
 youtube_dl==2021.12.17
 numba
 streamlit==1.9.0
